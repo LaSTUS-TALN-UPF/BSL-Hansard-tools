@@ -1,4 +1,7 @@
 # BSL-Hansard v1.0
+
+Full data stored at: https://zenodo.org/records/8159071
+
 This is a parallel British Sign Language and English corpus which is built from data from UK parliamentary sessions in the House of Commons from January 2021-March 2023. It was created by using the MAUS forced aligner (Schiel et al., 2017) to align Hansard, the official transcript of parliament, on timestamps to the English audio channel on the videos. The nature of BSL signing is interpretation. This alignment (.par files) goes down to the phonetic level, as this is used to align on a 10ms interval.
 
 The time-aligned text can be found in subtitle (.vtt) format, or in .tsv spreadsheet format which is also time-aligned and there is also the non-aligned original .txt transcripts. The videos have a superimposed signer and due to rights restrictions, the user will have to isolate the signer themselves in the video frame. Tools for this purpose among others will soon become available at https://github.com/LaSTUS-TALN-UPF/BSL-Hansard-tools 
