@@ -1,0 +1,27 @@
+Processing:
+
+Lead in to debate text can be removed, for example:
+
+"Women and Equalities \n The Minister for Women and Equalities was asked—"
+"Prime Minister \n The Prime Minister was asked— \n Engagements \n"
+
+Individual topics may need to be removed in non-PMQ debates.
+
+Numbered questions (in non-PMQ debates) may be removed as they are not signed or spoken. For example:
+
+"12. What steps are the government taking to..."
+
+Check that (a) the signer does not sign them long form, and (b) if we ought to replace these with for example:
+
+"Number 12 [please] mister speaker"
+
+Members' names can be retained, but double check that the signer usually signs the name of the member.
+
+ALL content in square brackets and parentheses may be removed. For example:
+
+"Neil Gray (Airdrie and Shotts) (SNP) [V]"
+
+Add spaces before and after punctuation, they are kept together in Hansard, for example:
+
+"here…in response"
+"John Hume—a man"
